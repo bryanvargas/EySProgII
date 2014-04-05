@@ -3,7 +3,7 @@ package com.juego;
 
 
 public final class App {
-	//Se cambio Nombre de la clase Appp
+	//Se cambio Nombre de la clase App
 	
 	 public static void main ( String [] args ) {	
 	 String [] nombreJugadores = {"Bryan", "Alvaro"};
